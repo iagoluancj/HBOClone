@@ -486,6 +486,10 @@ li {
         margin-top: 5rem;
     }
 
+    .gradient {
+        max-width: 70%;
+    }
+
     .gridImgs img {
         max-width: 70px;
     }
