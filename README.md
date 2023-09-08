@@ -20,6 +20,9 @@
 - Rodapé com links importantes
 - UI Responsiva
 
+  *As features são visuais, não possuindo integração com nenhuma API. O intuito do projeto é reproduzir a interface do site original, com algumas modificações.*
+
+
 
 <h2 id="topics">📦 Temas abordados</h2>
 
