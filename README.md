@@ -10,6 +10,17 @@
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
 
+<h2 id="features">✨ Features</h2>
+
+- Menu de navegação
+- Cabeçalho com animação gradiente
+- Cards com os planos de assinatura animados
+- Lista de filmes e séries disponíveis na plataforma
+- Formulário de login
+- Rodapé com links importantes
+- UI Responsiva
+
+
 <h2 id="topics">📦 Temas abordados</h2>
 
 O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora <a href="https://github.com/micheleambrosio">Michele Ambrosio</a>.
