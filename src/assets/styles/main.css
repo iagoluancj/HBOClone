@@ -514,7 +514,7 @@ li {
     }
 
     .gridMoreUnivers {
-        overflow: auto;
+        
     }
 
     .gridsChannels {
@@ -524,6 +524,7 @@ li {
         grid-template-rows: repeat(1, 1fr);
         margin: 0rem 0rem 0rem 0rem;
         border-radius: 4px;
+        overflow: auto;
     }
 
     .footer {
