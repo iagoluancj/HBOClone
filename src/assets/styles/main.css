@@ -513,10 +513,6 @@ li {
         margin: 1rem 1rem;
     }
 
-    .gridMoreUnivers {
-        
-    }
-
     .gridsChannels {
         width: 400px;
         display: grid;
@@ -524,6 +520,10 @@ li {
         grid-template-rows: repeat(1, 1fr);
         margin: 0rem 0rem 0rem 0rem;
         border-radius: 4px;
+        z-index: 11;
+        position: sticky;
+        top: calc(50rem - 86px);
+        right: 1%;
         overflow: auto;
     }
 
