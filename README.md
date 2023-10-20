@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/micheleambrosio/hbomax/master/assets/images/readme-images/cover.png" style="justify-content: center">
 
 <h1 align="center">Site HBO Max</h1>
-<a href="https://iagoluancj.github.io/HBOClone/src/index.html" align="center">CLIQUE AQUI PARA ACESSAR O CLONE</a>
+<h2 align="center"><a href="https://iagoluancj.github.io/HBOClone/src/index.html">CLIQUE AQUI PARA ACESSAR O CLONE</a></h2>
 <h4 align="center">Clone com modificações</h4>
 
 <p align="center">
